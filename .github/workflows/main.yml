@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mauncho Advocates | Nanyuki, Kenya</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mauncho Advocates is a boutique law firm in Nanyuki, Kenya providing Corporate, Criminal, Family, Real Estate and Litigation services.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>Mauncho Advocates</h1>
+        <p class="tagline">Advocates of the High Court of Kenya</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#practice">Practice Areas</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="container">
+        <h2>Strategic Legal Representation in Nanyuki</h2>
+        <p>Delivering precision, integrity, and results-driven advocacy for individuals and businesses.</p>
+        <a href="#contact" class="btn">Schedule Consultation</a>
+    </div>
+</section>
+
+<section id="about" class="section">
+    <div class="container">
+        <h2>About the Firm</h2>
+        <p>
+            Mauncho Advocates is a boutique law practice based in Nanyuki, Kenya.
+            The firm provides strategic legal counsel, litigation representation,
+            and advisory services tailored to meet the needs of individuals and corporate clients.
+        </p>
+        <p>
+            Our mission is to deliver client-centered, ethical, and results-oriented legal solutions
+            grounded in professionalism and diligence.
+        </p>
+    </div>
+</section>
+
+<section id="practice" class="section light">
+    <div class="container">
+        <h2>Practice Areas</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Corporate Law</h3>
+                <p>Company formation, governance, contracts, and commercial advisory services.</p>
+            </div>
+            <div class="card">
+                <h3>Criminal Law</h3>
+                <p>Defence and representation in criminal proceedings at all court levels.</p>
+            </div>
+            <div class="card">
+                <h3>Family Law</h3>
+                <p>Divorce, child custody, succession, and family dispute resolution.</p>
+            </div>
+            <div class="card">
+                <h3>Real Estate Law</h3>
+                <p>Property transactions, land disputes, and conveyancing services.</p>
+            </div>
+            <div class="card">
+                <h3>Contract Law</h3>
+                <p>Drafting, review, and enforcement of agreements.</p>
+            </div>
+            <div class="card">
+                <h3>Litigation</h3>
+                <p>Representation in civil and commercial court proceedings.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p><strong>Office:</strong> Laipha House, 3rd Floor, Nanyuki Town, Kenya</p>
+        <p><strong>Phone / WhatsApp:</strong> +254 746 389 218</p>
+        <p><strong>Email:</strong> edwinmauncho1@gmail.com</p>
+        <p><strong>Hours:</strong> Mon–Fri 8:00 AM – 6:00 PM | Sat 9:00 AM – 2:00 PM</p>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2026 Mauncho Advocates. All Rights Reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>
